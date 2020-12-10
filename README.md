@@ -1,2 +1,2 @@
 # Geovany Gameros👋
-## Friend, developer, leader and a Pasionate Etrepreneur
+## Friend, developer, leader and a passionate entrepreneur
