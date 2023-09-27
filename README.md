@@ -5,4 +5,4 @@ I'm a software engineer who is passionate about creating and designing high perf
 
 I've been working as a Techical Leader in some organizations. Also, on my free time, I love creating, developing and testing ideas. I'm curently building an IoT brand and I hope my products disrupt the smart home's market being simple and affordable. Maybe tomorrow I'll get involved into ML algorithms or Big Data or whatever I find challenging. I think you've got the idea...
 
-Check [my website](https://geovanygameros.com/) to know a little more about what I do.
+Check [my website](https://geovanygameros.com/) to know a little more about me.
