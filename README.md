@@ -1,5 +1,5 @@
 # Hey there! I'm Geovany Gameros👨‍💻
-### Developer, leader, friend and a passionate entrepreneur.
+### Developer, leader, friend, and entrepreneur.
 
 I'm a software engineer who is passionate about creating and designing high performance applications and micro-services. I've been a professional programmer for more than 8 years. Some of the technologies I love to work with are Ruby, ReactJS, and recently, React Native. I'm lately getting into serverless architectures and realtime capabilities. 
 
